@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Full Stack Developer | Frontend Enthusiast | Java & Python Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Welcome+to+My+GitHub!;Aspiring+Full+Stack+Developer;Frontend+Developer;Learning+Java+%26+Python;Building+Awesome+Projects+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Welcome+to+My+GitHub!;Aspiring+Full+Stack+Developer;Frontend+Developer;Learning+Java+%26+Python;Building+Awesome+Projects+🚀" alt="Typing SVG" />
 </p>
 
 ---

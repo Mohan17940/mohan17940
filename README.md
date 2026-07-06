@@ -79,7 +79,7 @@ https://github.com/mohan17940/student-form-crud
 
 🌐 **Live Demo**
 
-https://mohan17940.github.io/ai-chatbot/
+https://mohan17940.github.io/AI-CHATBOT/
 
 📂 **Source Code**
 
